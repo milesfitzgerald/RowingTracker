@@ -111,6 +111,11 @@ struct DashboardView: View {
                     appeared = true
                 }
             }
+            .onAppear {
+                withAnimation(.spring(response: 0.8, dampingFraction: 0.6)) {
+                    viewModel.load(modelContext: modelContext)
+                }
+            }
         }
     }
 }
