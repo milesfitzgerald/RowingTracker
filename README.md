@@ -1,5 +1,21 @@
 # RowTracker
 
+```
+                                          ~  ~
+         ___                         ~~  ~    ~~
+        /   \          __/)_____    ~  ~   ~
+       | o o |    ____/         \~~~~    ~~   ~
+       |  >  |   |  _     ___   |~  ~~    ~
+        \___/    | | |   / _ \  |   ~  ~~
+         /|\     | |_|  | (_) | |~~~~   ~  ~~
+    ____/_|_\____|___/   \___/  |~  ~~     ~
+   |______________|_____/______/~~~~  ~~ ~
+   ~~  ~~~~  ~~~  ~~~ ~~ ~~~ ~~~  ~~~~  ~~
+     ~~  ~~ ~~~~  ~~  ~~~~  ~~ ~~~~  ~~  ~~
+   ~~~~  ~~   ~~  ~~~~  ~~ ~~~~  ~~~~  ~~
+          ~~ ~~~~  ~~  ~~~~  ~~  ~~ ~~~~
+```
+
 An iOS app for tracking rowing sessions with an animated river scene. Set a monthly distance goal and watch your rower advance across the river as you log sessions.
 
 ## Features
